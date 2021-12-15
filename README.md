@@ -1,9 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Creating an application to consolidate my skills before exam
 
-Things you may want to cover:
+I'll cover harry (french bad joke) :
 
 * Ruby version
 
